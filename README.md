@@ -27,6 +27,7 @@
 ### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=jumashovnursultan&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jumashovnursultan&theme=tokyonight&hide_border=true)
 
 ---
 
