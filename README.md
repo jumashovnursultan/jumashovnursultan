@@ -4,16 +4,18 @@
 
 🎯 Specialized in scalable architecture, clean code, and full-cycle development  
 🚀 Delivered 10+ production apps in e-commerce, logistics, and digital services  
-💼 Experience: Team Lead responsibilities at **Odigital** + Freelance projects
+💼 Professional experience at **Odigital** + Freelance projects
 
 ---
 
-### 🛠️ Tech Stack
+## Languages and Tools
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-000?style=flat&logo=Language)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=Language)
+![Swift](https://img.shields.io/badge/-Swift-000?style=flat&logo=Language)
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=Tool)
+![Android](https://img.shields.io/badge/-Android-000?style=flat&logo=Tool)
+![iOS](https://img.shields.io/badge/-iOS-000?style=flat&logo=Tool)
 
 **Architecture:** Clean Architecture, BLoC, MVVM, Provider, Riverpod  
 **Backend:** REST API, Firebase Suite, GraphQL  
