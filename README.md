@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Nursultan Jumashov
+## 👋 Hi, I'm Nursultan
 
 **Flutter Developer** | 3+ years building cross-platform mobile apps for Android, iOS & Web
 
@@ -34,6 +34,7 @@
 ### 🌐 Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://jumashovnursultan.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nursultan-jumashov/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nursultanjumashovv@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nursultanjumashov)
 
