@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nursultan
 
-**Flutter Developer** | 3+ years building cross-platform mobile apps for Android, iOS & Web
+**Flutter Developer** | 2+ years building cross-platform mobile apps for Android, iOS & Web
 
 🎯 Specialized in scalable architecture, clean code, and full-cycle development  
 🚀 Delivered 10+ production apps in e-commerce, logistics, and digital services  
