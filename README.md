@@ -19,8 +19,6 @@
 
 **Architecture:** Clean Architecture, BLoC, MVVM, Provider, Riverpod  
 **Backend:** REST API, Firebase Suite, GraphQL  
-**CI/CD:** GitHub Actions, Fastlane  
-**Testing:** Unit, Widget, Integration tests
 
 ---
 
