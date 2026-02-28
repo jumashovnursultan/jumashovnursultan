@@ -3,7 +3,7 @@
 **Flutter Developer** | 2+ years building cross-platform mobile apps for Android, iOS & Web
 
 🎯 Specialized in scalable architecture, clean code, and full-cycle development  
-🚀 Delivered 10+ production apps in e-commerce, logistics, and digital services  
+🚀 Delivered 5+ production apps in e-commerce, logistics, and digital services  
 💼 Professional experience at **Odigital** + Freelance projects
 
 ---
